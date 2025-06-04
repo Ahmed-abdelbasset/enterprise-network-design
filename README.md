@@ -1,4 +1,4 @@
-# Enterprise Multi-Site Network Infrastructure with OSPF Routing and HSRP Redundancy
+# Enterprise Multi-Site Network Infrastructure:
 
 ## Table of Contents
 - [Project Overview](#project-overview)
